@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hii I'm Ashid 🍃🦋
 Currently learning CS <br>From Odisha Bhubaneswar
 
 
