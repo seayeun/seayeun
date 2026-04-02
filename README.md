@@ -1,4 +1,4 @@
-# 💫 Hii I'm Ashis 🍃🦋         ^|
+# 💫 Hii I'm Ashis 🍃🦋
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Seayeun ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Seayeun) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Seayeun) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Seayeun) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Seayeun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cloudbeeslaybusiness@gmail.com) 
 
