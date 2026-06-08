@@ -1,2 +1,2 @@
-Ah Hey.....
+Ah Hey..
 ,
