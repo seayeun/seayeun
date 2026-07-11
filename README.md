@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:021B79,30:0575E6,60:00C6FF,100:00F5D4&text=SEAYEUN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20•%20AI%20Explorer%20•%20Game%20Developer&descAlignY=60"/>
+<img width="100%" src="https://cat-bongo-sticker-by-sunway-echo-me.vercel.app/"/>
 
 </p>
 
