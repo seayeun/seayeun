@@ -1,5 +1,10 @@
-![Animated GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFtNGg1dmFhMHdjeW83Y2tqeTdpZzZyMWZ6N3hnNWpnbTZsanFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AIdGhVzDyXioKnLya7/giphy.gif)
-
+<p align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFtNGg1dmFhMHdjeW83Y2tqeTdpZzZyMWZ6N3hnNWpnbTZsanFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AIdGhVzDyXioKnLya7/giphy.gif"
+    alt="GIF"
+    width="100%"
+  />
+</p>
 
 
 ```console
