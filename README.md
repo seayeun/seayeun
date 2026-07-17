@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk2M2ZsaHc2anpmYTRzaXU2YnhqeGp3Y2JyNGkxZ2lhdnp0cHVrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bMZfX4pCxo60o/giphy.gif"
-    alt="GIF"
+    src="https://raw.githubusercontent.com/seayeun/seayeun/refs/heads/main/Nandini%20Mudliar.jpg"
+    alt="img"
     width="100%"
   />
 </p>
