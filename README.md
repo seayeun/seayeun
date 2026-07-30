@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/seayeun/seayeun/refs/heads/main/Nandini%20Mudliar.jpg"
+    src="link here"
     alt="img"
     width="100%"
   />
