@@ -11,7 +11,7 @@
 ┌──(github)-[~/seayeun]
 └─ Hey It's Me Sea
 
-Name        : Ashis BE\ehera
+Name        : Ashis Behera
 Username    :: seayeun
 Location    :: India
 Editor      :: VS Code
