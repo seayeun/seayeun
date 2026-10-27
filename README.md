@@ -7,15 +7,20 @@
 </p>
 
 
-<p> You Can Call Me Sea My Real Name Is Ashis 🙂</p>
+<p> You Can Call Me Sea My Real Name Is Ashis 🙂
+</p>
 <br> 
-💕 -- ▪️ I'm Currently Learning Python 🤞
+<p>💕 -- ▪️ I'm Currently Learning Python 🤞
+</p>
 <br>
-🤗 -- ▪️ workimg On Wan 2.2 On Hugging Face 
+<p>🤗 -- ▪️ workimg On Wan 2.2 On Hugging Face
+</p>
 <br>
-😎 -- ▪️ Building Some Cool Animated Sites On Google Ai Studio
+<p>😎 -- ▪️ Building Some Cool Animated Sites On Google Ai Studio
+</p>
 <br>
-🤐 -- ▪️ How to Reach Me - Wynedoc@protonmail.com
+<p>🤐 -- ▪️ How to Reach Me - Wynedoc@protonmail.com
+</p>
 <br>
-☺️ -- ▪️ For Direct message -  Telegram - @Wenyesrc
+<p></p>☺️ -- ▪️ For Direct message -  Telegram - @Wenyesrc</p>
 </br>
