@@ -9,10 +9,8 @@
 
 <p> You Can Call Me Sea My Real Name Is Ashis 🙂</p>
 <br> 
-<p>💕 -- ▪️ I'm Currently Learning Python 🤞</p>
-<br>
-<p>🤗 -- ▪️ workimg On Wan 2.2 On Hugging Face</p>
-<br>
+<p>💕 -- ▪️ I'm Currently Learning Python 🤞</p><br>
+<p>🤗 -- ▪️ workimg On Wan 2.2 On Hugging Face</p><br>
 <p>😎 -- ▪️ Building Some Cool Animated Sites On Google Ai Studio</p>
 <br>
 <p>🤐 -- ▪️ How to Reach Me - Wynedoc@protonmail.com</p>
