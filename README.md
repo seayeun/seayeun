@@ -7,20 +7,10 @@
 </p>
 
 
-```console
-┌──(github)-[~/seayeun]
-└─ Hey It's Me Sea
+You Can Call Me Sea My Real Name Is Ashis 🙂
 
-Name        : Ashis Behera
-Username    :: seayeun
-Location    :: India
-Editor      :: VS Code
-OS          :: Linux + Windows
-Focus       :: AI | Web | Game Development
-  ⚡ Cs Student At CUTM  ⚡
-
-Status :: Building Something Awesome...
-```
-
----
-
+💕 -- ▪️ I'm Currently Learning Python 🤞
+🤗 -- ▪️ workimg On Wan 2.2 On Hugging Face 
+😎 -- ▪️ Building Some Cool Animated Sites On Google Ai Studio
+🤐 -- ▪️ How to Reach Me - Wynedoc@protonmail.com
+☺️ -- ▪️ For Direct message -  Telegram - @Wenyesrc
